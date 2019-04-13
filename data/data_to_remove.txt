@@ -1,0 +1,33 @@
+AGE
+	% Age 17 and Under
+	% Age 65 and Older
+	% Age 85 and Older
+	merge these 3 by adding together and subtracting from 100.0
+EDUCATION
+	No removals
+ETHNICITY
+	Race: % Multi-Racial
+	Race: % Native Hawaiian and Other Pacific Islander Alone
+	Race: % American Indian & Alaska Native Alone
+FINANCIAL
+	Total Market Value
+	Total Actual Levy
+	Total County Tax Rate
+	Total Appraised Value (Total Taxable Value for FM/FC)Total Appraised Value (Total Taxable Value for County Tax Purposes)
+GENERAL
+	Land Area
+	Water Area
+	Total Area
+	Percent Rural
+INCOME
+	Total Personal Income
+	Median Household Income
+	Average Annual Pay
+	% of Population in Poverty
+	% of Population Under 18 in Poverty
+POPULATION
+	County Population
+	County Seat	County
+	Seat Population
+TAX
+	REMOVE ALL
