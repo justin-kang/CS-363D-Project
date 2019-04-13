@@ -1,5 +1,4 @@
 AGE
-	% Age 17 and Under
 	% Age 65 and Older
 	% Age 85 and Older
 	merge these 3 by adding together and subtracting from 100.0
