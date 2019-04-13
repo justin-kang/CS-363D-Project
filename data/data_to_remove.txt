@@ -1,5 +1,4 @@
 AGE
-	% Age 17 and Under
 	% Age 65 and Older
 	% Age 85 and Older
 	merge these 3 by adding together and subtracting from 100.0
@@ -10,10 +9,7 @@ ETHNICITY
 	Race: % Native Hawaiian and Other Pacific Islander Alone
 	Race: % American Indian & Alaska Native Alone
 FINANCIAL
-	Total Market Value
-	Total Actual Levy
-	Total County Tax Rate
-	Total Appraised Value (Total Taxable Value for FM/FC)Total Appraised Value (Total Taxable Value for County Tax Purposes)
+	REMOVE ALL
 GENERAL
 	Land Area
 	Water Area
